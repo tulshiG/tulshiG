@@ -227,10 +227,10 @@ me.say_hi()
 
 <!-- Animated tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=✨+New+Ideas.+Endless+Possibilities.+✨" alt="Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=✨+New+Ideas.+Endless+Possibilities.+✨" alt="New Ideas. Endless Possibilities." />
 </a>
 
-<br/><br/>
+<br/>"New Ideas. Endless Possibilities."<br/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
