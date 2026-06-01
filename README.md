@@ -160,6 +160,7 @@ me.say_hi()
 - ⚙️ CRUD operations with JDBC + **Queue & LinkedList** for optimized scheduling
 
 ---
+
 ## 🏆 Achievements & Certifications
 
 <div align="center">
@@ -173,6 +174,7 @@ me.say_hi()
 | 🏁 **Breach Hackathon 2025** participant (PDPU) | 🤖 AI Dev Workshop: Streamlit, Gradio, Chatbots |
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -189,7 +191,6 @@ me.say_hi()
 
 </div>
 
----
 ---
 
 ## 📈 Activity Graph
@@ -222,15 +223,14 @@ me.say_hi()
   </a>
 </p>
 
+<br/>
 
+<!-- Animated tagline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=✨+New+Ideas.+Endless+Possibilities.+✨" alt="Tagline" />
+</a>
 
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com." alt="Typing SVG" />
-  </a>
-</p>
-
-
+<br/><br/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
