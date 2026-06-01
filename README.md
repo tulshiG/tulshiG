@@ -160,6 +160,20 @@ me.say_hi()
 - ⚙️ CRUD operations with JDBC + **Queue & LinkedList** for optimized scheduling
 
 ---
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| 🏅 Achievement | 📜 Certification |
+|:---|:---|
+| ⭐⭐⭐⭐⭐ **5-Star Java** on HackerRank | 🎓 Introduction to Java — *LearnQuest (Coursera)* |
+| ⭐⭐⭐⭐ **4-Star SQL** on HackerRank | 🎓 Inheritance & Data Structures in Java — *UPenn (Coursera)* |
+| ⭐⭐⭐⭐ **4-Star Python** on HackerRank | 🎓 HTML, CSS, JavaScript — *IBM (Coursera)* |
+| 🧩 **60+ LeetCode** DSA problems solved | 🎓 Exploratory Data Analysis for ML — *IBM (Coursera)* |
+| 🏁 **Breach Hackathon 2025** participant (PDPU) | 🤖 AI Dev Workshop: Streamlit, Gradio, Chatbots |
+
+</div>
+---
 
 ## 📊 GitHub Stats
 
@@ -176,21 +190,6 @@ me.say_hi()
 </div>
 
 ---
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🏅 Achievement | 📜 Certification |
-|:---|:---|
-| ⭐⭐⭐⭐⭐ **5-Star Java** on HackerRank | 🎓 Introduction to Java — *LearnQuest (Coursera)* |
-| ⭐⭐⭐⭐ **4-Star SQL** on HackerRank | 🎓 Inheritance & Data Structures in Java — *UPenn (Coursera)* |
-| ⭐⭐⭐⭐ **4-Star Python** on HackerRank | 🎓 HTML, CSS, JavaScript — *IBM (Coursera)* |
-| 🧩 **60+ LeetCode** DSA problems solved | 🎓 Exploratory Data Analysis for ML — *IBM (Coursera)* |
-| 🏁 **Breach Hackathon 2025** participant (PDPU) | 🤖 AI Dev Workshop: Streamlit, Gradio, Chatbots |
-
-</div>
-
 ---
 
 ## 📈 Activity Graph
@@ -223,11 +222,15 @@ me.say_hi()
   </a>
 </p>
 
-<br/>
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-<br/>
+<p align="center">
+  <a href="https://git.io">
+    <img src="https://demolab.com." alt="Typing SVG" />
+  </a>
+</p>
+
+
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
