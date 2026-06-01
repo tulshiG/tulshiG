@@ -226,10 +226,18 @@ me.say_hi()
 <br/>
 
 <!-- Animated tagline -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=✨+New+Ideas.+Endless+Possibilities.+✨" />
-  <br/>"New Ideas. Endless Possibilities."<br/>
-</a>
+
+<p align="center">
+✨
+<img
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=2000&color=A78BFA&center=true&vCenter=true&width=700&lines=New+Ideas.;Endless+Possibilities.;Create.+Build.+Innovate."
+alt="Typing SVG"
+/>
+✨
+</p>
+
+
+ <br/>"New Ideas. Endless Possibilities."<br/>
 
 
 
