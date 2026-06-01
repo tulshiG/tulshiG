@@ -12,9 +12,9 @@
 
 <!-- Profile Views + Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=tulshigupta07&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=tulshiG&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views"/>
   &nbsp;
-  <a href="https://www.linkedin.com/in/tulshi-gupta">
+  <a href="https://www.linkedin.com/in/tulshi-gupta-902b05325/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -108,9 +108,6 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="80" align="center">
-  <img src="https://img.shields.io/badge/🏛️-blue?style=flat-square" width="50"/>
-</td>
 <td>
 
 **🔷 Python Developer Intern** — *Ahmedabad Rural Police* `Oct 2025 – Mar 2026`
@@ -168,13 +165,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tulshigupta07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tulshiG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshigupta07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tulshigupta07&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="180"/>
+<img src="https://streak-stats.demolab.com?user=tulshiG&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="180"/>
 
 </div>
 
@@ -199,7 +196,7 @@ me.say_hi()
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tulshigupta07&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tulshiG&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -213,8 +210,12 @@ me.say_hi()
     <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/tulshi-gupta">
+  <a href="https://www.linkedin.com/in/tulshi-gupta-902b05325/">
     <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/tulshiG">
+    <img src="https://img.shields.io/badge/🐙_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/tulshigupta07">
