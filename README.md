@@ -218,7 +218,7 @@ me.say_hi()
     <img src="https://img.shields.io/badge/🐙_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/tulshigupta07">
+  <a href="https://www.hackerrank.com/tulshi07">
     <img src="https://img.shields.io/badge/💻_HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
 </p>
