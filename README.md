@@ -227,7 +227,7 @@ me.say_hi()
 
 <!-- Animated tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=✨+New+Ideas.+Endless+Possibilities.+✨" alt="New Ideas. Endless Possibilities." />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=✨+New+Ideas.+Endless+Possibilities.+✨" alt="tagline" />
 </a>
 
 <br/>"New Ideas. Endless Possibilities."<br/>
