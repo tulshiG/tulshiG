@@ -181,9 +181,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tulshiG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=tulshiG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180"/> -->
 
 <br/><br/>
 
@@ -227,10 +227,11 @@ me.say_hi()
 
 <!-- Animated tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=✨+New+Ideas.+Endless+Possibilities.+✨" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=✨+New+Ideas.+Endless+Possibilities.+✨" />
+  <br/>"New Ideas. Endless Possibilities."<br/>
 </a>
 
-<br/>"New Ideas. Endless Possibilities."<br/>
+
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
