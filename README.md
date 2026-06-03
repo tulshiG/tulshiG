@@ -187,7 +187,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tulshi%20Gupta&fontSize=60&fontColor=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=tulshiG&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="180"/>
 </div>
 
 ---
