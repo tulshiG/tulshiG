@@ -213,8 +213,9 @@ me.say_hi()
   <!-- <a href="mailto:tulshigupta07@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> -->
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulshigupta07@gmail.com)
-  
+  ```md
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulshigupta07@gmail.com)
+```
   &nbsp;
   <a href="https://www.linkedin.com/in/tulshi-gupta-902b05325/">
     <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
