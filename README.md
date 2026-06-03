@@ -207,9 +207,11 @@ me.say_hi()
 <div align="center">
 
 <p>
-  <a href="mailto:tulshigupta07@gmail.com">
+  <!-- <a href="mailto:tulshigupta07@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a> -->
+  [![📧 Email Me](https://shields.io)](mailto:tulshigupta07@gmail.com)
+
   &nbsp;
   <a href="https://www.linkedin.com/in/tulshi-gupta-902b05325/">
     <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
