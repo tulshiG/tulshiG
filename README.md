@@ -187,8 +187,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tulshiG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tulshi%20Gupta&fontSize=60&fontColor=ffffff"/>
 </div>
 
 ---
