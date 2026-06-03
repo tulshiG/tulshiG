@@ -181,10 +181,10 @@ me.say_hi()
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=tulshiG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tulshiG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180"/> -->
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180"/>
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=tulshiG&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="180"/>
