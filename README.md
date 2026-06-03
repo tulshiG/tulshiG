@@ -216,6 +216,11 @@ me.say_hi()
   ```md
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tulshigupta07@gmail.com)
 ```
+  <p align="center">
+  <a href="mailto:tulshigupta07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
   &nbsp;
   <a href="https://www.linkedin.com/in/tulshi-gupta-902b05325/">
     <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
