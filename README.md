@@ -187,7 +187,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=tulshiG&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tulshiG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
 
 </div>
 
@@ -207,7 +207,7 @@ me.say_hi()
 <div align="center">
 
 <p>
-  <a href="mailto : tulshigupta07@gmail.com">
+  <a href="mailto:tulshigupta07@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
