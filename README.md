@@ -18,9 +18,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:tulshigupta07@gmail.com">
+  <!-- <a href="mailto:tulshigupta07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  </a> -->
+  <a href="mailto:tulshigupta07@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   &nbsp;
   <a href="https://www.hackerrank.com/tulshigupta07">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"/>
@@ -210,7 +213,9 @@ me.say_hi()
   <!-- <a href="mailto:tulshigupta07@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> -->
-  [![📧 Email Me](https://shields.io)](mailto:tulshigupta07@gmail.com)
+  <a href="mailto:tulshigupta07@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
   &nbsp;
   <a href="https://www.linkedin.com/in/tulshi-gupta-902b05325/">
